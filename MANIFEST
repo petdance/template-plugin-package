@@ -1,0 +1,8 @@
+Changes
+cpanfile
+MANIFEST
+Makefile.PL
+Package.pm
+README.md
+t/00-load.t
+t/package.t
